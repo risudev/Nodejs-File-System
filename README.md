@@ -21,7 +21,7 @@ This project is a simple Node.js API using **Express**, **dotenv**, and **fs** (
 - [Express.js](https://expressjs.com/)
 - [dotenv](https://www.npmjs.com/package/dotenv)
 - [date-fns](https://date-fns.org/)
-- Native Node.js `fs` module
+- Node.js `fs` module
 - [CORS](https://www.npmjs.com/package/cors)
 
 ---
